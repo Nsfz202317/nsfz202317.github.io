@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 首页 Home
 ---
-{% include navig.html %}
 
 这里包含：
 
