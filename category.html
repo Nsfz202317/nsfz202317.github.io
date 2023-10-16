@@ -10,14 +10,14 @@ permalink: /categories/category.html
 </head>
 <body>
     <h1>分类 Categories</h1>
-    <h2>每周一题 Weekly Academic Discussion</h2>
+    <h2><a href="/categories/WAD.html">每周一题 Weekly Academic Discussion</a></h2>
     <ul>
         {% for post in site.wad %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
-    <h2>班级大事记 Class Events</h2>
-    <h2>体育联赛 Sports League</h2>
+    <h2><a href="/categories/Events.html">班级大事记 Class Events</a></h2>
+    <h2><a href="/categories/Sports.html">体育联赛 Sports League</a></h2>
     <ul>
         {% for post in site.sports %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>

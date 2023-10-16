@@ -21,7 +21,7 @@ title: 希腊字母表 Greek Alphabet
 |12|mu| $M$ | $\mu$ |/mju:/|
 |13|nu| $N$ | $\nu$ |/nju:/|
 |14|xi| $\Xi$ | $\xi$ |/ˈzaɪ/ 或 /ˈksaɪ/|
-|15|omicron| $O$ | $\omicron$ |/əuˈmaikrən/ 或 /ˈɑmɪˌkrɑn/|
+|15|omicron| $O$ | $\omicron$ |/əuˈmaikrən/ 或 /ˈɒmɪˌkrɒn/|
 |16|pi| $\Pi$ | $\pi, \varpi$ |/paɪ/|
 |17|rho| $P$ | $\rho, \varrho$ |/rəʊ/|
 |18|sigma| $\Sigma$ | $\sigma, \varsigma$ |/'sɪɡmə/|
@@ -30,4 +30,4 @@ title: 希腊字母表 Greek Alphabet
 |21|phi| $\Phi$ | $\phi, \varphi$ |/faɪ/|
 |22|chi| $X$ | $\chi$ |/kaɪ/|
 |23|psi| $\Psi$ | $\psi$ |/psaɪ/|
-|24|omega| $\Omega$ | $\omega$ |/'ælfə/|
+|24|omega| $\Omega$ | $\omega$ |/'əʊmɪɡə/ 或 /oʊ'meɡə/|
