@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 关于 About
+title: 关于 A
 permalink: /about/
-version: "v0.5"
+version: "v0.6"
 update-log: |
-    - 增加了针对移动端用户的提示。
-    - 完善了 2023 Week 6 的每周一题。
+    - 新增了“作业记录”模块；
+    - 在“每周一题”模块下新增了“排行”与“规则”页面；
     - 修复了一些已知问题。
 ---
 

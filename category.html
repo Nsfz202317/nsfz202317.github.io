@@ -1,5 +1,5 @@
 ---
-title: "分类 Categories"
+title: 分类 C
 layout: category
 permalink: /categories/category.html
 ---
@@ -23,5 +23,11 @@ permalink: /categories/category.html
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
-        
+    <h2><a href="/categories/Materials.html">学习资料 Learning Materials</a></h2>
+    <ul>
+        {% for post in site.materials %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    <h2><a href="/categories/HR.html">作业记录 Homework Record</a></h2>
 </body>
