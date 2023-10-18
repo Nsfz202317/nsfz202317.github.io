@@ -13,7 +13,9 @@ permalink: /categories/category.html
     <h2><a href="/categories/WAD.html">每周一题 Weekly Academic Discussion</a></h2>
     <ul>
         {% for post in site.wad %}
+        {% if post.hidden!=true %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
         {% endfor %}
     </ul>
     <h2><a href="/categories/Events.html">班级大事记 Class Events</a></h2>
