@@ -2,9 +2,8 @@
 layout: page
 title: 关于 A
 permalink: /about/
-version: "v0.6.1"
+version: "v0.6.2"
 update-log: |
-    - 新增了“获取打印版题目/解析”功能；
     - 在“每周一题”模块下修改了“规则”页面的表述；
     - 修复了一些已知问题。
 ---
