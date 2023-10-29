@@ -2,9 +2,9 @@
 layout: page
 title: 关于 A
 permalink: /about/
-version: "v0.6.2"
+version: "v0.8"
 update-log: |
-    - 在“每周一题”模块下修改了“规则”页面的表述；
+    - 完善了 WAD 2023 Week 8 内容。
     - 修复了一些已知问题。
 ---
 
