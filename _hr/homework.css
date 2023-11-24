@@ -61,7 +61,6 @@ ul
 
 .pre5BeginDiv
 {
-	//line-height: 200%;
 	z-index:999;
 	background-color: #5555ff;
 	color: #ffffff;
@@ -72,7 +71,6 @@ ul
 
 .beginDiv
 {
-	//line-height: 200%;
 	z-index:999;
 	background-color: #ff5555;
 	color: #ffffff;
@@ -108,13 +106,13 @@ h1
 {
 	border: 2px #dddddd solid;
 	border-radius: 10px;
-	font-size: 28px;
+	font-size: 16px;
 }
 
 .noticeBig
 {
 	border: 2px #dddddd solid;
 	border-radius: 15px;
-	font-size: 56px;
 	padding: 3px;
+	font-size: 1.5em;
 }
