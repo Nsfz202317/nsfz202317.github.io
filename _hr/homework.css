@@ -28,10 +28,30 @@
 	color:#ffffff;
 }
 
+.BUD
+{
+	border-bottom: 2px solid #0000ff;
+}
+
+.GUD
+{
+	border-bottom: 2px solid #00ff00;
+}
+
+.RUD
+{
+	border-bottom: 2px solid #ff0000;
+}
+
+.tith2
+{
+	margin-bottom: 0px;
+}
+
 h2
 {
 	margin-top: 10px;
-	margin-bottom: 0px;
+	margin-bottom: 8px;
 	font-family: 楷体;
 }
 
@@ -59,12 +79,34 @@ ul
 	margin-bottom: 5px;
 }
 
+.RMK::marker
+{
+	color: #ff0000;
+}
+
+.GMK::marker
+{
+	color: #00ff00;
+}
+
+.BMK::marker
+{
+	color: #0000ff;
+}
+
+.PMK::marker
+{
+	color: #ffa0c4;		
+}
+
 .pre5BeginDiv
 {
 	z-index:999;
 	background-color: #5555ff;
 	color: #ffffff;
 	position: absolute;
+	top: 0px;
+	left: 0px;
 	width: 100%;
 	height: 100%;
 }
@@ -75,6 +117,8 @@ ul
 	background-color: #ff5555;
 	color: #ffffff;
 	position: absolute;
+	top: 0px;
+	left: 0px;
 	width: 100%;
 	height: 100%;
 }
@@ -95,6 +139,8 @@ h1
 .songInfo
 {
 	font-family: Bahnschrift;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 .songName
@@ -102,17 +148,122 @@ h1
 	font-size: 36px;
 }
 
+.smallSongName
+{
+	font-size: 30px;
+}
+
 .notice
 {
 	border: 2px #dddddd solid;
 	border-radius: 10px;
-	font-size: 16px;
+	font-size: 28px;
+	padding: 2px 2px 2px 2px;
 }
 
 .noticeBig
 {
 	border: 2px #dddddd solid;
 	border-radius: 15px;
-	padding: 3px;
-	font-size: 1.5em;
+	font-size: 56px;
+	padding: 3px 3px 3px 3px;
+}
+
+.divNotice
+{
+	position:absolute;
+	top:5px;
+	right:5px;
+	z-index:998;
+	background-color:#0000ff;
+	color:#ffffff;
+}
+
+.noticeText
+{
+	margin: 3px 3px 3px 3px;
+	line-height:120%;
+}
+
+li
+{
+	margin-top: 3px;
+	margin-bottom: 0px;
+}
+
+.sm
+{
+	font-size: 24px;
+}
+
+.smBig
+{
+	font-size: 36px;
+}
+
+.msyh
+{
+	font-family: 微软雅黑;
+}
+
+.launchDiv
+{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	background-color:#000000;
+	color: #ffffff;
+	text-align:center;
+	z-index:1000;
+}
+
+#launchCont
+{
+	position: absolute;
+	top: 45%;
+	width: 100%;
+}
+
+#launchTitle
+{
+	//position:absolute;
+	//top: 200px;
+	width: 100%;
+}
+
+#launchProgBar
+{
+	//position:absolute;
+	//top: 150px;
+	width:100%;
+}
+
+#progOutline
+{
+	border: 5px solid #ffffff;
+	height: 20px;
+	width: 500px;
+	margin-top: 50px;
+}
+
+#progBar
+{
+	background-color: #ffffff;
+	margin: 2px 2px 2px 2px;
+	width: 496px;
+	height: 16px;
+}
+
+#launchTitleText
+{
+	font-family: "Minecraft AE Pixel";
+	font-size: 72px;
+}
+
+@font-face
+{
+	font-family: 'Minecraft AE Pixel';
+	src: url("./fonts/Minecraft AE.ttf");
 }
