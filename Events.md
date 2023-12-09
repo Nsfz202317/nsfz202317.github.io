@@ -52,4 +52,6 @@ permalink: /categories/Events.html
 
 ![网页截图](./img/events_231209.png)
 
+<video width="100%" src="https://imgcdn.yzwb.net/fcapp_5ab00879-1600-4c75-9955-beaeee2901f2_1702008002625.mp4" poster="https://imgcdn.yzwb.net/newscontent-df361747-1677-4df0-b50d-834b56fea9aa-1702017186945.jpg" controls="controls"></video>
+
 - 12 月 7、8 日，“让我们一起想”教学开放日。
