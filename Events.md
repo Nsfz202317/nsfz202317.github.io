@@ -52,6 +52,6 @@ permalink: /categories/Events.html
 
 [点击查看网页截图](./img/events_231209.png)
 
-[点击查看视频](./events/events_231209.html)
+[点击查看视频](../events/events_231209.html)
 
 - 12 月 7、8 日，“让我们一起想”教学开放日。
