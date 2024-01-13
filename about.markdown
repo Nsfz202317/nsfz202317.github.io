@@ -2,9 +2,10 @@
 layout: page
 title: 关于 A
 permalink: /about/
-version: "v0.9.2-231216a"
+version: "v0.9.2-240107"
 update-log: |
-    - 更新了 12/12 ~ 12/16 作业。
+    - 更新了 01/02 ~ 01/05 作业。
+    - 新增了 01/08 的 5 项赛事。
     - 修复了一些已知问题。
 ---
 
