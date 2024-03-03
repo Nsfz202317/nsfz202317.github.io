@@ -1,5 +1,5 @@
 ---
-title: 24/01/08 羽毛球联赛(男单) 17班 vs 19班
+title: '[取消] 24/01/08 羽毛球联赛(男单) 17班 vs 19班'
 layout: default
 ---
 
@@ -10,6 +10,10 @@ layout: default
 <!--<h1> 17 班 <span style="border: 1px #111111 solid; border-radius:5px; background-color:#f3f3f3; display:inline flex; width:80px; height:100px" hidden><b style="font-size:64px; margin:0px auto; color:#aaaaaa">0</b></span> vs <span style="border: 1px #111111 solid; border-radius:5px; background-color:#f3f3f3; display:inline flex; width:80px; height:100px" hidden><b style="font-size:64px; margin:0px auto">6</b></span> 21 班 </h1>-->
 <h4>Jan. 8<sup>th</sup>, 16:30 Start</h4>
 </div>
+
+## → 注意：比赛取消 Attention: Cancellation of Match ←
+
+**由于时间安排问题，比赛无限期延期。**
 
 ## 比赛纪要 Summary
 
